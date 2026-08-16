@@ -105,6 +105,6 @@
 ```
 
 >[NOTE!]
-> 我一直沒有理解這段建構子的關係，但總而言之
-> DbContextOptions是一個語法，套用 在我定義的類別 "AppDbContext" 上，然後我這個類別裡面有一個 options
-> 但我要啟用這個 options 的話，我就要用 base(options)才可以啟用 DbContextOptions 這個語法的功能，base 是一個語法。
+> 我一直沒有理解這段建構子的關係，但總而言之<br>
+> DbContextOptions是一個語法，套用 在我定義的類別 "AppDbContext" 上，然後我這個類別裡面有一個 options<br>
+> 但我要啟用這個 options 的話，我就要用 base(options)才可以啟用 DbContextOptions 這個語法的功能，base 是一個語法。<br>
