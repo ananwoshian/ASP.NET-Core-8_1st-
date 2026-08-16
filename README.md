@@ -65,12 +65,12 @@
     <li>Entity Framework Core 相關套件刷一排下載就好</li>
       <text>這邊下載了 Relational、Abstractions、Analyzers、Design、SqlServer、Tools</text>
       <img width="1560" height="738" alt="image" src="https://github.com/user-attachments/assets/69967619-88dc-40fa-af16-9ea181993717" />
-      - Relational
-      - Abstractions
-      - Analyzers
-      - Design
-      - SqlServer
-      - Tools
+      - Relational  
+      - Abstractions  
+      - Analyzers  
+      - Design  
+      - SqlServer  
+      - Tools  
       *上面這些還沒有弄懂分別的意義跟功能是甚麼*
     <li></li>
   </ul>
