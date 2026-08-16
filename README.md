@@ -6,8 +6,8 @@
 <br>IDE：Visual Studio</br>
 
 <b><h1>階段進程</h1></b>
-> [!NOTE]
 ## 各階段目標分配
+> [!NOTE]
 >* 1. 創立一個空白 MVC 專案，M-V-C 全手工刻入程式碼
 >* 2. STAGE 1 ：Models 建立（資料架構） -  定義這個資料是甚麼樣子
 >* 3. STAGE 2 ：DataBase 建立（EF Core - DbContext）- 使 Model 對應到實際的資料表
@@ -38,9 +38,9 @@
 <ul>
   <li><b>建立Models資料夾噢.cs檔案 for items</b></li>
   <img width="1917" height="629" alt="image" src="https://github.com/user-attachments/assets/51400003-5e17-4e58-87dc-89e244848641" />
-  ```text
-  調整↑NOTE
   <img width="427" height="225" alt="image" src="https://github.com/user-attachments/assets/dcd301ad-5b45-4fff-b10b-285bf03960a1" />
+  ```text
+  調整 ↑ NOTE
   ```
 
 </ul>
