@@ -33,3 +33,9 @@
     <li>Controllers</li><text>建立控制(使用) Models 的控制器</text>
     <li>Views</li><text>簡白而言,就是網站的長相 VIEW </text>
 </ul>
+<ul>
+  <li><b>建立Models資料夾噢.cs檔案 for items</b></li>
+  <img width="1917" height="629" alt="image" src="https://github.com/user-attachments/assets/51400003-5e17-4e58-87dc-89e244848641" />
+  
+
+</ul>
