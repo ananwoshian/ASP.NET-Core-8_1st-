@@ -1,8 +1,6 @@
 # ASP.NET-Core-8_1st-
 <p>ASP.NET Core 8 + C# 練習_作品集</p>
-----------------------------------------------------------------------------------
 <h2>自學 C# 與 ASP.NET Core 8 with Visual Studio (從 0 開始)</h2>
-----------------------------------------------------------------------------------
 <br>Language：C#</br>
 <br>Platform：ASP.NET Core 8</br>
 <br>IDE：Visual Studio</br>
