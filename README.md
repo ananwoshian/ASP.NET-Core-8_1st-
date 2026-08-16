@@ -15,7 +15,7 @@
 6. STAGE 5 ：測試執行 TEST - 測試WEB是否可以正常顯示且更新資料表
 
 <h3>學習紀錄</h3>
-$$\Huge\text\{0816}：
+$$\Huge\text{0816}：
   <li><b>使用 Visual Studio 建立新的專案</b></li>
   <li><b>選擇＂空的 ASP.NET Core＂ 專案範本</b></li>
     <img width="1008" height="891" alt="image" src="https://github.com/user-attachments/assets/5891f9da-0065-4179-b4d0-7621b159f614" />
