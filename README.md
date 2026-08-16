@@ -55,6 +55,7 @@
 <text>EF Core (EntityFramework Core) 會看上面這段宣告， 找到 Items (Model) 對應DB中的那張表</text>
 >* 但是EF Core 要安裝 NuGet 的套件，裡面有 EF Core 的工具庫
 >* 選擇 `NuGet套件管理員`
+
 <ul>
     <li><b>第一步:選單-專案-管理NuGet套件</b></li>
       <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/61ae019d-33a8-49bc-8342-3510d176d19e" />
@@ -63,16 +64,21 @@
       <img width="1569" height="720" alt="image" src="https://github.com/user-attachments/assets/ac2b6b6a-a9eb-4b10-bc1c-576f4a59fe97" />
       
       *這個地方不用焦慮，即便Senior都要查找資料，找EF Core相關套件下載就好*
-    
+</ul>
+
+<ul>
   <li>Entity Framework Core 相關套件刷一排下載就好</li>
-    <text>這邊下載了 Relational、Abstractions、Analyzers、Design、SqlServer、Tools</text>
-    <img width="1560" height="738" alt="image" src="https://github.com/user-attachments/assets/69967619-88dc-40fa-af16-9ea181993717" />
+  <text>這邊下載了 Relational、Abstractions、Analyzers、Design、SqlServer、Tools</text>
+  <img width="1560" height="738" alt="image" src="https://github.com/user-attachments/assets/69967619-88dc-40fa-af16-9ea181993717" />
+</ul>
       - Relational<br>
       - Abstractions<br>
       - Analyzers<br>
       - Design<br>
       - SqlServer<br> 
       - Tools<br>
+      
       *上面這些還沒有弄懂分別的意義跟功能是甚麼*
+
   <li></li>
-</ul>
+
