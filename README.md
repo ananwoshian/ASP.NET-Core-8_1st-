@@ -52,3 +52,16 @@
 <h3>建立DbContext Class</h3>
 
 >* 這是一個 連接資料庫 的 Class，裡面會 declare 『<mark> public DbSet<Items> Items { get; set; }</mark> 』
+<text>EF Core (EntityFramework Core) 會看上面這段宣告， 找到 Items (Model) 對應DB中的那張表</text>
+>* 但是EF Core 要安裝 NuGet 的套件，裡面有 EF Core 的工具庫
+>* 選擇 `NuGet套件管理員`
+  <ul>
+    <li><b>第一步:選單-專案-管理NuGet套件</b></li>
+      <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/61ae019d-33a8-49bc-8342-3510d176d19e" />
+    <li><b>第二步:進入NuGet套件介面 - 瀏覽 - 查詢對應 EF Core套件</b></li>
+    <text>搜尋 Entity Framework</text>
+      <img width="1569" height="720" alt="image" src="https://github.com/user-attachments/assets/ac2b6b6a-a9eb-4b10-bc1c-576f4a59fe97" />
+
+    <li></li>
+    <li></li>
+  </ul>
