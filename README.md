@@ -46,7 +46,7 @@
 ### STAGE 2 : 建立 DataBase
 <ul>
   <li>這個階段涵括兩個項目需要執行（Claude說的）</li>
-    - 選擇預計使用的 <b>SQL Server</b>
-    - 建立 DbContext Class
+    <br> - 選擇預計使用的 <b>SQL Server</b></br>
+    <br> - 建立 DbContext Class</br>
   
 </ul>
