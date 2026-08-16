@@ -28,3 +28,5 @@
     <li>Program.cs</li><text>(整個專案的關聯方式嗎 不曉得)</text>
     <li>Models</li><text>建立規格資料架構</text>
     <li>Data</li><text>資料庫的建立-需求檔案</text>
+    <li>Controllers</li><text>建立控制(使用) Models 的控制器</text>
+    <li>Views</li><text>簡白而言,就是網站的長相 VIEW </text>
