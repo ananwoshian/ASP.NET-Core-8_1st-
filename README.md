@@ -83,5 +83,20 @@
 >* SqlServer
 >  Tools
 
-  <li></li>
+<ul>
+  <li><b>新增【Data】資料夾</b></li><br>
+  <text>建立一Class(類別)，名稱取「AppDbContext」</text>
+  
+  <img width="1910" height="722" alt="image" src="https://github.com/user-attachments/assets/ca44d6f1-5dcb-4dbe-a0aa-9bf765485566" />
+</ul>
 
+<ul>
+  <li><b>建立類別 AppDbContext</b></li><br>
+```text
+  public class AppDbContext(DbContextOptions<AppDbContext> options):base (options)
+    {
+    }
+```
+  <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/24a302aa-32b3-439b-bfcb-62f9529ef0e8" />
+
+</ul>
