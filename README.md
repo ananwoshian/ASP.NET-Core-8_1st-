@@ -92,11 +92,10 @@
 
 <ul>
   <li><b>建立類別 AppDbContext</b></li><br>
+  <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/24a302aa-32b3-439b-bfcb-62f9529ef0e8" />
+</ul>
 ```text
   public class AppDbContext(DbContextOptions<AppDbContext> options):base (options)
     {
     }
 ```
-  <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/24a302aa-32b3-439b-bfcb-62f9529ef0e8" />
-
-</ul>
