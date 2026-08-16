@@ -41,4 +41,4 @@
 </ul>
   <img width="427" height="225" alt="image" src="https://github.com/user-attachments/assets/dcd301ad-5b45-4fff-b10b-285bf03960a1" />
   
-  *** 修正 NOTE ***
+  *修正 NOTE*
