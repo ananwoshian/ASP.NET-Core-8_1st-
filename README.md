@@ -58,12 +58,12 @@
 
 <ul>
     <li><b>第一步:選單-專案-管理NuGet套件</b></li>
-      <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/61ae019d-33a8-49bc-8342-3510d176d19e" />
+      <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/61ae019d-33a8-49bc-8342-3510d176d19e" /><br>
     <li><b>第二步:進入NuGet套件介面 - 瀏覽 - 查詢對應 EF Core套件</b></li>
   
   <text>搜尋 Entity Framework</text><br>
       
-  <img width="1569" height="720" alt="image" src="https://github.com/user-attachments/assets/ac2b6b6a-a9eb-4b10-bc1c-576f4a59fe97" />
+  <img width="1569" height="720" alt="image" src="https://github.com/user-attachments/assets/ac2b6b6a-a9eb-4b10-bc1c-576f4a59fe97" /><br>
       
   *這個地方不用焦慮，即便Senior都要查找資料，找EF Core相關套件下載就好*
 </ul>
@@ -71,7 +71,7 @@
 <ul>
   <li><b>Entity Framework Core 相關套件刷一排下載就好</b></li><br>
   <text>這邊下載了 Relational、Abstractions、Analyzers、Design、SqlServer、Tools</text>
-  <img width="1560" height="738" alt="image" src="https://github.com/user-attachments/assets/69967619-88dc-40fa-af16-9ea181993717" />
+  <img width="1560" height="738" alt="image" src="https://github.com/user-attachments/assets/69967619-88dc-40fa-af16-9ea181993717" /><br>
 </ul>
 
       
