@@ -50,4 +50,5 @@
     <br> - 建立 DbContext Class</br>
 </ul>
 <h3>建立DbContext Class</h3>
->* 這是一個 連接資料庫 的 Class，裡面會 declare ‵public DbSet<Items> Items { get; set; }‵
+
+這是一個 連接資料庫 的 Class，裡面會 declare <kbd> public DbSet<Items> Items { get; set; }</kbd> 
