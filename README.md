@@ -40,8 +40,5 @@
   <img width="1917" height="629" alt="image" src="https://github.com/user-attachments/assets/51400003-5e17-4e58-87dc-89e244848641" />
 </ul>
   <img width="427" height="225" alt="image" src="https://github.com/user-attachments/assets/dcd301ad-5b45-4fff-b10b-285bf03960a1" />
-```text
-調整 ↑ NOTE
-```
-
+  *調整 ↑ NOTE*
 
