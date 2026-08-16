@@ -16,10 +16,10 @@
 
 <h3>學習紀錄</h3>
 <li>0816：</li>
-  <li>使用 Visual Studio 建立新的專案</li>
-  <li>選擇＂空的 ASP.NET Core＂ 專案範本</li>
+  <li fontsize=14>使用 Visual Studio 建立新的專案</li>
+  <li fontsize=14>選擇＂空的 ASP.NET Core＂ 專案範本</li>
     <img width="1008" height="891" alt="image" src="https://github.com/user-attachments/assets/5891f9da-0065-4179-b4d0-7621b159f614" />
-  <li><a>初始畫面如下：</a></li>
+  <li fontsize=14><b>初始畫面如下：</b></li>
     <img width="1917" height="964" alt="image" src="https://github.com/user-attachments/assets/1d8c3af4-f5af-4e8d-8874-fd88a0e93ebf" />
     <li>Connected Services</li><text>目前還不知道作用是甚麼</text>
     <li>Properties</li><text>目前還不知道作用是甚麼</text>
